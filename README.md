@@ -1,7 +1,8 @@
-
 # BlackBox – Ignition Hackathon Winner(1st Place)
+![IMG_0335](https://github.com/user-attachments/assets/3fa6b45e-4b65-4d51-b800-d318911c07e8)
 
 BlackBox was a rider telementary system that won first place in Ignition which was a 18 hour hackathon held on `07–08 November 2025`
+
 
 
 # Problem statement: 
