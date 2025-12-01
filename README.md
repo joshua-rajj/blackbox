@@ -8,6 +8,11 @@ It attaches to the rider's helmet and collects real-time motion & location data,
 - Scooter
 - Bike
 - Walking/Running
+<p align="center" style="display: flex; padding: 1rem; gap: 2rem;">
+  <img src="https://github.com/user-attachments/assets/1ad1b918-ab94-4f63-92e6-2785146697d7" height="500px">
+  <img src="https://github.com/user-attachments/assets/0c5ae14f-607d-49a2-8988-cef135238d59" height="500px">
+</p>
+
 
 Built in **18 hours**. Fully tested on track during the hackathon.
 
@@ -24,14 +29,6 @@ It wasn’t just coding. It demanded:
 
 Only one team would walk away with the win.\
 We did.
-
-## POC
-
-<p align="center" style="display: flex; padding: 1rem; gap: 2rem;">
-  <img src="https://github.com/user-attachments/assets/1ad1b918-ab94-4f63-92e6-2785146697d7" width="45%" height="100%">
-  <img src="https://github.com/user-attachments/assets/3fa6b45e-4b65-4d51-b800-d318911c07e8" width="45%" height="100%">
-</p>
-
 
 ## Problem statement: 
 1. Participants must build a wearable telemetry system that attaches to a rider’s helmet, jacket, and/or pants and captures real-time motion and location data.
