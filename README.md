@@ -67,9 +67,20 @@ hackathon.
 - Timestamped logging
 - Classification model for riding mode (motorcycle / scooter / walking & running)
 
+## Team Members
+||
+| -------- |
+| [Joshua R](https://github.com/joshua-rajj)      |
+| [Shreyas V](https://github.com/woterr) |
+| [Arjun](https://github.com/arjun-com) |
+| Abhinav K |
+
+
+
 ## Results
 
 - First Place Winner; among 59 teams
 - Built in 18 hours
 - Live tested on track
 - Full app + prototype demoed successfully
+
